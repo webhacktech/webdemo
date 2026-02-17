@@ -1,2 +1,0 @@
-# webdemo
-storedemo
